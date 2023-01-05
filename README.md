@@ -10,7 +10,7 @@ These are all potential factors that may impact the price of a property, but whi
 ## Objective:
 The analysis was conducted to investigate how different features impact property value by identifying the most significant factors that impact home sales prices. The analysis used data relative to home sales prices in the King County, Washington from April 2014 to May 2015. This county includes 39 cities, with Seattle being the largest (and county seat).
 
-The final report is available at this [link.](https://public.tableau.com/app/profile/albert.tran/viz/KingCountryHomeSalesAnalysis/Story1?publish=yes)
+The final report is available at this [link.](https://public.tableau.com/app/profile/albert.tran/viz/KingCountyHomeSalesAnalysis/Story1)
 
 ## Data:
 The original datasets are from the following link:
